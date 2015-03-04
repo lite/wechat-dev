@@ -1,9 +1,9 @@
-source 'https://rubygems.org'
+# source 'https://rubygems.org'
+source 'https://ruby.taobao.org'
 
 gem 'rails', '4.1.5'
 
-# Use postgresql as the database for Active Record
-gem 'pg'
+gem 'mysql2'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
